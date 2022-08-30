@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @raja-avinash
+- 👀 I’m interested in developing SaaS platforms (nocode lowcode)
+- 🌱 I’m currently learning Java and Kotlin
+- 💞️ I’m looking to collaborate on JS open source libraries
+- 📫 You can reach me at raja.avinash@fincity.com
